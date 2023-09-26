@@ -1,0 +1,9 @@
+<template>
+  <iframe
+    class="min-w-full"
+    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11046.598621256811!2d6.2566643!3d46.19753!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478c6fb3e5601977%3A0x7a4432651a553b82!2sToni%20Auto!5e0!3m2!1sfr!2sfr!4v1695724938712!5m2!1sfr!2sfr"
+    height="450"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+  ></iframe>
+</template>
