@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: ${{ matrix.node }}
           cache: yarn
-          cache-dependency-path: "./package-lock.json"
+          cache-dependency-path: "./yarn.lock"
       - run: yarn
       - run: yarn generate
       - uses: JamesIves/github-pages-deploy-action@v4
