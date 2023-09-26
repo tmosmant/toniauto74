@@ -1,7 +1,7 @@
 <template>
   <nav class="m-auto flex items-center justify-between flex-wrap p-6 max-w-7xl">
     <div class="flex items-center">
-      <img src="logo.png" class="max-w-[140px] lg:max-w-[200px]" />
+      <img src="~/public/logo.png" class="max-w-[140px] lg:max-w-[200px]" />
     </div>
     <a
       href="tel:+33450062501"
